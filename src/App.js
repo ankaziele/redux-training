@@ -12,6 +12,7 @@ function App() {
       <div className="App">
         <AddPosts />
         <Posts />
+      <Test />
       </div>
     </Provider>
   );
